@@ -2,7 +2,7 @@
 
 This is a small research aimed at testing the reinforcement learning capabilitiesfor autonomous control of the bionic arm.  The main goal in the future is toachieve full autonomy in the control of the bionic arm, so that it adapts to anytask in the environment.
 
-You can see more detailed description of research at [description](description.pdf)
+You can see more detailed description of research at [Description pdf](description.pdf) 
 
 To implementreinforcement learning, the Gym library from OpenAI was chosen.  
 
