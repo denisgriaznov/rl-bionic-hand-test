@@ -6,6 +6,6 @@ You can see more detailed description of research at [Description pdf](descripti
 
 To implementreinforcement learning, the Gym library from OpenAI was chosen.  
 
-It worked inconjunction with Unity ML Agents via Python.A model of a hand with 15 degrees of freedom was built.  The game consistedin grabbing an item that appeared in one of 3 different positions at random.
+It worked inconjunction with Unity ML Agents via Python. A model of a hand with 15 degrees of freedom was built.  The game consistedin grabbing an item that appeared in one of 3 different positions at random.
 
 ![test](/Images/gif.gif)
